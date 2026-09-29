@@ -1,1 +1,1 @@
-Esta es mi l�nea base para el ejercicio - Prototipo
+Esta es mi línea base para el ejercicio - Versión 0.1 Prototipo
